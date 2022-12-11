@@ -1,0 +1,9 @@
+outpath: /home/syf/out/orgweb
+gap: 5
+mysql:
+  username: root
+  password: ibmc51
+  host: 127.0.0.1
+  port: 3306
+  dbname: graduation
+  charset: utf8mb4
