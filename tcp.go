@@ -8,8 +8,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/shadowsocks/go-shadowsocks2/socks"
-	"github.com/shadowsocks/go-shadowsocks2/statistic"
+	"github.com/yafeng-Soong/base-shadowsocks2/socks"
+	"github.com/yafeng-Soong/base-shadowsocks2/statistic"
 )
 
 func tcpLocal(l net.Listener, d Dialer) {

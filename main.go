@@ -5,9 +5,9 @@ import (
 	"log"
 	"strings"
 
-	"github.com/shadowsocks/go-shadowsocks2/core"
-	"github.com/shadowsocks/go-shadowsocks2/listen"
-	"github.com/shadowsocks/go-shadowsocks2/statistic"
+	"github.com/yafeng-Soong/base-shadowsocks2/core"
+	"github.com/yafeng-Soong/base-shadowsocks2/listen"
+	"github.com/yafeng-Soong/base-shadowsocks2/statistic"
 )
 
 func main() {

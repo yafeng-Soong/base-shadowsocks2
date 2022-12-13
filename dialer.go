@@ -4,9 +4,9 @@ import (
 	"errors"
 	"net"
 
-	"github.com/shadowsocks/go-shadowsocks2/core"
-	"github.com/shadowsocks/go-shadowsocks2/socks"
-	"github.com/shadowsocks/go-shadowsocks2/speeddial"
+	"github.com/yafeng-Soong/base-shadowsocks2/core"
+	"github.com/yafeng-Soong/base-shadowsocks2/socks"
+	"github.com/yafeng-Soong/base-shadowsocks2/speeddial"
 )
 
 type Dialer interface {

@@ -1,4 +1,4 @@
-module github.com/shadowsocks/go-shadowsocks2
+module github.com/yafeng-Soong/base-shadowsocks2
 
 go 1.18
 

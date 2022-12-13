@@ -3,7 +3,7 @@ package listen
 import (
 	"net"
 
-	"github.com/shadowsocks/go-shadowsocks2/socks"
+	"github.com/yafeng-Soong/base-shadowsocks2/socks"
 )
 
 func init() {

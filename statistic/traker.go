@@ -10,7 +10,7 @@ import (
 	"time"
 
 	"github.com/gofrs/uuid"
-	"github.com/shadowsocks/go-shadowsocks2/socks"
+	"github.com/yafeng-Soong/base-shadowsocks2/socks"
 )
 
 type TrackerInfo struct {

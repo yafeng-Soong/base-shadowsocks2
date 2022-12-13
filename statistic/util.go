@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/shadowsocks/go-shadowsocks2/socks"
+	"github.com/yafeng-Soong/base-shadowsocks2/socks"
 )
 
 func parseSocksAddr(target socks.Addr) *Metadata {
